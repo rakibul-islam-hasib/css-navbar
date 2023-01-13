@@ -88,7 +88,7 @@ header {
         right: 0;
         width: 100vw;
         background: #11101b;
-        transition: 2s;
+        transition: 0.7s;
         overflow: hidden;
     }
 
